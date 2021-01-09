@@ -26,16 +26,16 @@ const StyledLink = styled.a`
     color: red;
   }
 `;
-
+const Webpage = "https://ivankhoda.github.io/latinica/";
 const NavBar = () => {
   return (
     <NavigationBar>
       <Menu>
         <MenuItem>
-          <StyledLink href="/about">O proektje</StyledLink>
+          <StyledLink href="#about">O proektje</StyledLink>
         </MenuItem>
         <MenuItem>
-          <StyledLink href="/contacts">Kontakty</StyledLink>
+          <StyledLink href="#contacts">Kontakty</StyledLink>
         </MenuItem>
       </Menu>
       <Routes />
