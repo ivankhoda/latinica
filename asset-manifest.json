@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/latinica/static/css/main.435b660e.chunk.css",
-    "main.js": "/latinica/static/js/main.b2622413.chunk.js",
-    "main.js.map": "/latinica/static/js/main.b2622413.chunk.js.map",
+    "main.js": "/latinica/static/js/main.3292256e.chunk.js",
+    "main.js.map": "/latinica/static/js/main.3292256e.chunk.js.map",
     "runtime-main.js": "/latinica/static/js/runtime-main.5cf79504.js",
     "runtime-main.js.map": "/latinica/static/js/runtime-main.5cf79504.js.map",
     "static/js/2.4aa72b6f.chunk.js": "/latinica/static/js/2.4aa72b6f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5cf79504.js",
     "static/js/2.4aa72b6f.chunk.js",
     "static/css/main.435b660e.chunk.css",
-    "static/js/main.b2622413.chunk.js"
+    "static/js/main.3292256e.chunk.js"
   ]
 }
